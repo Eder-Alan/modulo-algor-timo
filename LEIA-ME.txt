@@ -1,0 +1,99 @@
+Logica de Programacao
+
+Código de Base: 
+
+variáveis 
+O que são e para que servem as variáveis 
+
+Desenhando o fluxogramaPágina
+
+Codificando em portugolPágina
+
+O que aprendemos 
+
+Exercicios Propostos - Variaveis
+/*****************************************/
+Controles-Decisões
+Decisão simples - Conceito e fluxogramaPágina
+
+Decisão composta - Conceito e fluxogramaPágina
+
+Decisão encadeada - Conceito e fluxogramaPágina
+
+Multipla escolha - Conceito e fluxogramaPágina
+
+Decisão simples - PortugolPágina
+
+Decisão composta - PortugolPágina
+
+Decisão encadeada - PortugolPágina
+
+Multipla escolha - PortugolPágina
+
+Exercicios Propostos - Decisões
+/*****************************************/
+Operadores
+Operadores relacionais e logicosPágina
+ 
+Resolvando um problema com operadoresPágina
+ 
+Desenho o fluxogamaPágina
+ 
+Operadores - PortugolPágina
+ 
+Exercicios Propostos - Operadores
+/*****************************************/
+Repeticoes
+Loop com condicionalPágina
+
+Loop com controle definidoPágina
+
+Desenhando fluxograma - Loop condicionalPágina
+
+Desenhando fluxograma - Loop definidoPágina
+
+Resolvendo um problema com loopsPágina
+
+Repetições loop condicional - PortugolPágina
+
+Repetições loop definido - PortugolPágina
+
+Exercicios Propostos - Repeticoes
+/*****************************************/
+Vetor
+
+Dimensionando variáveis em vetoresPágina
+
+Resolvendo um problema com vetoresPágina
+
+Desenhando fluxograma - VetoresPágina
+
+Vetores - PortugolPágina
+
+Exercicios Propostos - Vetor
+/*****************************************/
+Matriz
+Matriz - ConceitoPágina
+
+Matriz - ProblemaPágina
+
+Matriz - FluxoPágina
+
+Matriz - PortugolPágina
+
+Exercicios Propostos - Matriz
+/*****************************************/
+Funcoes
+
+Conceito e desenho de funcoesPágina
+
+Codificando em PortugolPágina
+
+Exemplo de Funcao - teoria e fluxoPágina
+
+Exemplo de funcao -Codificando
+/*****************************************/
+
+
+
+
